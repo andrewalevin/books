@@ -1,8 +1,4 @@
-🌃 [https://andrewalevin.github.io](https://andrewalevin.github.io)
-
-🏕 [https://andrewalevin.github.io/books/](https://andrewalevin.github.io/books/)
-
-🏗 [https://github.com/andrewalevin/books](https://github.com/andrewalevin/books)
+ [🚀 Home Page](https://andrewalevin.github.io/) &ensp;  [🏰 Repository](https://github.com/andrewalevin/books/) &ensp;  [🔨 Edit Page](https://github.com/andrewalevin/books/edit/main/README.md)
 
 
 # Books
