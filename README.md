@@ -4,7 +4,7 @@
 # 📚 Books
 
 
-- [western-canon](western-canon)
+- [The Western Canon. The Books And School of the Ages. Harold Bloom](western-canon)
 
 ## Рольф Добелли: Без новостей. Как избавиться от информационного шума и мыслить ясно
 
