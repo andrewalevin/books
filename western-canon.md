@@ -8,7 +8,7 @@
 # The Western Canon. The Books And School of the Ages. Harold Bloom
 
 
-![image](https://github.com/andrewalevin/books/assets/155118488/355a7dca-72f3-4828-a155-c12acf6c79c9)
+![image](https://github.com/andrewalevin/books/assets/155118488/a11aff5f-ee93-4eb7-8b46-97a3b85d519a)
 
 
 English list
