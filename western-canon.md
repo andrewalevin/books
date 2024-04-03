@@ -1,6 +1,6 @@
 <style>
   b, strong {
-    font-weight: 0000;
+    font-weight: 900;
   }
 </style>
 
