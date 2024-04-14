@@ -7,7 +7,7 @@
 - [🦜 Прочитанные книжки](reading)
 
 
-### Книжки
+### Другие книжки
 
 - [The Western Canon. The Books And School of the Ages. Harold Bloom](western-canon)
 
