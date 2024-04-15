@@ -5,11 +5,11 @@
 
 - [🛍 Купленные книжки](purchased)
 - [🦜 Прочитанные книжки](reading)
+- [🏛 The Western Canon. The Books And School of the Ages. Harold Bloom](western-canon)
 
 
-### Другие книжки
+## Другие книжки
 
-- [The Western Canon. The Books And School of the Ages. Harold Bloom](western-canon)
 
 ### Рольф Добелли: Без новостей. Как избавиться от информационного шума и мыслить ясно
 
