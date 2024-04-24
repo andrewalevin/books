@@ -7,7 +7,7 @@
 - [🦜 Прочитанные книжки](reading)
 - [🏛 The Western Canon. The Books And School of the Ages. Harold Bloom](canon-western)
 - [Русский канон: Книги ХХ века • Сухих И.Н.](canon-russian)
-- [Персональный Кано](canone-personal)
+- [Персональный Канон](canon-personal)
 
 
 ## Другие книжки
