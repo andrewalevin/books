@@ -5,8 +5,9 @@
 
 - [🛍 Купленные книжки](purchased)
 - [🦜 Прочитанные книжки](reading)
-- [🏛 The Western Canon. The Books And School of the Ages. Harold Bloom](western-canon)
-- [Русский канон: Книги ХХ века • Сухих И.Н.](russian-canone)
+- [🏛 The Western Canon. The Books And School of the Ages. Harold Bloom](canon-western)
+- [Русский канон: Книги ХХ века • Сухих И.Н.](canon-russian)
+- [Персональный Кано](canone-personal)
 
 
 ## Другие книжки
