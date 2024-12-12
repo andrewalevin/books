@@ -10,6 +10,13 @@
 - [Персональный Канон](canon-personal)
 
 
+![telegram-cloud-photo-size-2-5391283567348280187-y](https://github.com/user-attachments/assets/87bca78f-22db-4de2-b977-855456805386)
+
+
+Great books of the Western world, vol 71-86.pdf
+
+https://github.com/andrewalevin/books/blob/main/Great%20books%20of%20the%20Western%20world%2C%20vol%2071-86.pdf
+
 ## Другие книжки
 
 
